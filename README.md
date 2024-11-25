@@ -1,3 +1,14 @@
+
+# Description
+The app offers a seamless way to explore the top 50 cryptocurrencies, providing up-to-date listings and detailed information. Users can effortlessly switch between different fiat currencies to view cryptocurrency values in their preferred denomination. To ensure reliability and a smooth user experience, the app features local caching, effectively mitigating issues caused by excessive requests to the third-party API.
+
+Demo Link: https://crypto-view-tawny.vercel.app/
+
+## Tech Stack
+- React
+- Material UI
+- Coingecko: APIs are used for fetching the crypto details
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
